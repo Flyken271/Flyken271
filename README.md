@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Switch Homebrew and much more!
 - 🌱 Currently I'm learning more C.
-- 👯 I’m also uploading a series of playthroughs of games on my Youtube [Youtube][youtube]
+- 👯 I’m also uploading a series of playthroughs of games on my [Youtube][youtube]
 - 🥅 2021 Goals: Work on college majoring CS and do more with the Switch.
 - ⚡ Fun fact: I developed Iridium (NXLink-GUI)
 
