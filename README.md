@@ -1,4 +1,4 @@
-### Hi there, I'm Jared - aka [Flyken][website] 👋
+### Hi there, I'm Jared - aka [Flyken] 👋
 
 ## I'm a Fullstack web dev, Switch Homebrew dev and applications dev!
 
