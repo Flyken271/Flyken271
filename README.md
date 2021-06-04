@@ -1,6 +1,5 @@
 ### Hi there, I'm Jared - aka [Flyken][website] 👋
 
-[![Website](https://img.shields.io/website?label=Flyken.org&style=for-the-badge&url=https%3A%2F%2Fflyken.org)]()
 ## I'm a Fullstack web dev, Switch Homebrew dev and applications dev!
 
 - 🔭 I’m currently working on Switch Homebrew and much more!
