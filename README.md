@@ -2,15 +2,15 @@
 
 ## I'm a Fullstack web dev, Switch Homebrew dev and applications dev!
 
-- 🔭 I’m currently working on a Mobile Data Terminal and much more!
+- 🔭 I’m currently working on expanding my skillset.
 - 🌱 Learning more about svelte and web technologies.
-- 👯 I’m also uploading a series of playthroughs of games on my [Youtube][youtube]
-- 🥅 2023-2024 Goals: Finishing the MDT as well as working on more projects.
+- 🥅 2023-2024 Goals: Acquiring more certificates to compliment my skills.
+- ❤  I love to work with Svelte!
 - ⚡ Fun fact: I developed Iridium (NXLink-GUI)
 
 ### Connect with me:
 
-[<img align="left" alt="Flyken | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Flyken | YouTube" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/svelte.svg)" />][website]
 
 <br />
 
@@ -31,5 +31,5 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-[website]: https://flyken.xyz
+[website]: https://flyken.vercel.app
 [youtube]: https://www.youtube.com/channel/UCCa6u0RBT4nK6tOMU3cY8mQ
