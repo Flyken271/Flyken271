@@ -1,6 +1,6 @@
 ### Hi there, I'm Jared - aka [Flyken] 👋
 
-## I'm a Fullstack web dev, Switch Homebrew dev and applications dev!
+## I'm a Fullstack web dev and applications dev!
 
 - 🔭 I’m currently working on expanding my skillset.
 - 🌱 Learning more about svelte and web technologies.
