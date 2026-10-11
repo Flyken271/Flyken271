@@ -137,17 +137,25 @@ def render(stats, out_path):
                 x,y=pos(pl,p-dr*0.16*k); put(x,y,'.' if k>2 else '*',dim(col,0.35+0.13*(4-k)))
             x,y=pos(pl,p); put(x,y,'o',col)
         for dx,c,cl in [(-1,'(',dim(NUC,.6)),(0,'@',NUC),(1,')',dim(NUC,.6))]: put(acx+dx,acy,c,cl)
-        img=Image.new("RGB",(W,H),(13,17,23)); d=ImageDraw.Draw(img)
-        d.rounded_rectangle([8,8,W-8,H-8],radius=16,fill=BGc)
+        img=Image.new("RGBA",(W,H),(0,0,0,0)); d=ImageDraw.Draw(img)
+        d.rounded_rectangle([3,3,W-3,H-3],radius=18,fill=BGc+(255,))
         for r in range(rows):
             for c in range(cols):
                 ch,col=g[r][c]
                 if ch!=' ':
                     fnt=B if (col in (KEYC,BASE) or ch in '@()') else F
                     d.text((18+c*CW,16+r*CH),ch,font=fnt,fill=col)
-        return np.array(img)
-    import imageio
-    imageio.mimsave(out_path,[frame(f) for f in range(N)],fps=16,loop=0)
+        return img
+    frames=[frame(f) for f in range(N)]
+    pal=[]
+    for im in frames:
+        alpha=im.split()[3]
+        p=im.convert("RGB").convert("P",palette=Image.ADAPTIVE,colors=255)
+        mask=alpha.point(lambda a:255 if a<=128 else 0)
+        p.paste(255,mask)
+        pal.append(p)
+    pal[0].save(out_path,save_all=True,append_images=pal[1:],
+                duration=int(1000/16),loop=0,transparency=255,disposal=2,optimize=False)
 
 if __name__=="__main__":
     ap=argparse.ArgumentParser()
