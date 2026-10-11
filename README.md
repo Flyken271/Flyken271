@@ -54,3 +54,16 @@ Leveling into **IT & security** — stacking certifications and shipping project
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flyken271&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+---
+
+<div align="center">
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flyken271/Flyken271/output/snake-dark.svg" />
+  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/Flyken271/Flyken271/output/snake.svg" />
+</picture>
+
+</div>
