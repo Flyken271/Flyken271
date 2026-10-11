@@ -26,7 +26,7 @@
 
 Leveling into **IT & security** — stacking certifications and shipping projects along the way.
 
-> **🔎 Under wraps:** Discovered and responsibly disclosed a security vulnerability through **HackerOne's coordinated disclosure** process. Details are embargoed — *bounty pending.* 🤐
+> **🔎 Under wraps:** Discovered and responsibly disclosed a security vulnerability through **HackerOne's coordinated disclosure** process. Details are embargoed — *bounty pending.*
 
 ---
 
@@ -52,9 +52,5 @@ Leveling into **IT & security** — stacking certifications and shipping project
 
 ![Flyken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flyken271&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flyken271&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-<br/>
-
-🌐 **[flyken.vercel.app](https://flyken.vercel.app)**
 
 </div>
