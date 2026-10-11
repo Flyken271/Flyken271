@@ -1,0 +1,40 @@
+name: Generate Profile Card
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/generate_card.py'
+      - '.github/workflows/profile-card.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install fonts and dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-dejavu-core
+          pip install --quiet pillow numpy imageio requests
+      - name: Generate card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+        run: python scripts/generate_card.py --out dist/card.gif
+      - name: Publish to card-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: card-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

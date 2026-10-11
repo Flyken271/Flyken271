@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Flyken271/flyken271/card-output/card.gif" alt="Flyken271 — live profile card" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jared+%E2%80%94+aka+Flyken+%F0%9F%91%8B;Self-taught+systems+%26+security+dev;Reverse+engineering+%26+low-level+tooling;I+build+the+missing+tool" alt="typing banner" />
 
 <br/>
