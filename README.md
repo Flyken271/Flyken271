@@ -1,35 +1,60 @@
-### Hi there, I'm Jared - aka [Flyken] 👋
+<div align="center">
 
-## I'm a Fullstack web dev and applications dev!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Jared+%E2%80%94+aka+Flyken+%F0%9F%91%8B;Self-taught+systems+%26+security+dev;Reverse+engineering+%26+low-level+tooling;I+build+the+missing+tool" alt="typing banner" />
 
-- 🔭 I’m currently working on expanding my skillset.
-- 🌱 Learning more about svelte and web technologies.
-- 🥅 2023-2024 Goals: Acquiring more certificates to compliment my skills.
-- ❤  I love to work with Svelte!
-- ⚡ Fun fact: I developed Iridium (NXLink-GUI)
+<br/>
 
-### Connect with me:
+*Making systems do things they weren't designed to do.*
 
-[<img align="left" alt="Flyken | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/svelte.svg" />][website] <- Check out my site!
+<br/>
 
-<br />
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Languages and Tools:
+</div>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+---
 
+### 🔐 Currently
 
-[website]: https://flyken.vercel.app
-[youtube]: https://www.youtube.com/channel/UCCa6u0RBT4nK6tOMU3cY8mQ
+Leveling into **IT & security** — stacking certifications and shipping projects along the way.
+
+> **🔎 Under wraps:** Discovered and responsibly disclosed a security vulnerability through **HackerOne's coordinated disclosure** process. Details are embargoed — *bounty pending.* 🤐
+
+---
+
+### 🛠️ Featured Work
+
+<div align="center">
+
+[![Iridium](https://github-readme-stats.vercel.app/api/pin/?username=Flyken271&repo=Iridium&theme=tokyonight&hide_border=true)](https://github.com/Flyken271/Iridium)
+[![Byrd](https://github-readme-stats.vercel.app/api/pin/?username=Flyken271&repo=Byrd&theme=tokyonight&hide_border=true)](https://github.com/Flyken271/Byrd)
+[![NeuraSim](https://github-readme-stats.vercel.app/api/pin/?username=Flyken271&repo=NeuraSim&theme=tokyonight&hide_border=true)](https://github.com/Flyken271/NeuraSim)
+[![ForzaLiveryStudio](https://github-readme-stats.vercel.app/api/pin/?username=Flyken271&repo=ForzaLiveryStudio&theme=tokyonight&hide_border=true)](https://github.com/Flyken271/ForzaLiveryStudio)
+
+</div>
+
+- **Iridium** — Graphical interface for NXLink (Switch homebrew deployment); picked up a following on GBAtemp. `C#`
+- **Byrd** — A terminal emulator written from scratch. `C`
+- **NeuraSim** — Mechanistic blood-brain-barrier PBPK simulator with a route-by-route transport engine. `C++`
+- **ForzaLiveryStudio** — Contributed a PNG/SVG → vinyl-shape auto-import feature to the open-source livery editor. `C++`
+
+---
+
+<div align="center">
+
+![Flyken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flyken271&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flyken271&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+<br/>
+
+🌐 **[flyken.vercel.app](https://flyken.vercel.app)**
+
+</div>
