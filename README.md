@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Flyken271/flyken271/card-output/card.gif" alt="Flyken271 — live profile card" />
+<img src="https://raw.githubusercontent.com/Flyken271/flyken271/card-output/card.gif?v=2" alt="Flyken271 — live profile card" />
 
 </div>
 
